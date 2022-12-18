@@ -1,0 +1,5 @@
+
+Common topics for google
+Graph/Tree, DP, Geometry, Interval
+
+Segment tree - set of queries Q
